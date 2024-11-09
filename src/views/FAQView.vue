@@ -16,7 +16,7 @@
 </template>
 
 <script>
-import '../styles/page.css'
+import '@/styles/page.css'
 
 import Accordion from 'primevue/accordion';
 import AccordionPanel from 'primevue/accordionpanel';

@@ -9,7 +9,7 @@
 </template>
 
 <script>
-import '../styles/page.css'
+import '@/styles/page.css'
 
 import screenSizeMixin from '@/mixins/screenSizeMixin';
 
