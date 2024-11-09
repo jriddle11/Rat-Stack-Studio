@@ -67,7 +67,7 @@ export default {
   }
   .homeContainer{
     width: 100%;
-    height: 85vh;
+    min-height: 85vh;
     background-color: black;
     justify-content: center;
     align-items: center;
@@ -76,7 +76,7 @@ export default {
   }
   .homeContainerSmall{
     width: 100%;
-    height: 65vh;
+    min-height: 65vh;
     background-color: black;
     justify-content: center;
     align-items: center;
@@ -134,7 +134,7 @@ export default {
   }
   .aboutContentSmall{
     width: 90%;
-    height: 20vh;
+    min-height: 20vh;
     background-color: white;
     border: #0b9ac5 solid 5px;
     text-align: center;

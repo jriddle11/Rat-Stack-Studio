@@ -78,8 +78,8 @@ export default {
   cursor: pointer;
 }
 .titleImageSmall {
-  height: 2.106rem;
-  width: 9.1125rem;
+  height: 3.159rem;
+  width: 13.66875rem;
   background-image: url('./images/Title.png');
   background-size: cover;
   transition: background-image 0.3s ease;
