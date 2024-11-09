@@ -1,3 +1,3 @@
-### vue-project
+### Details
 
 Website for Rat Stack Studio
