@@ -12,7 +12,7 @@
         <h3>Quick Links</h3>
         <p>Home</p>
         <p>FAQ</p>
-        <p>Aout</p>
+        <p>About</p>
       </div>
 
       <div class="footer-section contact-info">
